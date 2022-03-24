@@ -1,3 +1,3 @@
-print("ALDO)
-asdsadas
+print("ALDO")
+
 
